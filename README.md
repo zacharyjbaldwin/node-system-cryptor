@@ -4,7 +4,7 @@ An encryption and decryption tool that can handle both files and text.
 ## Installing
 
 ### Via NodeJS:
-```asdfasdf```
+```npm install --save node-zen-cryptor```
 
 ### Via Git:
 ```git clone https://www.github.com/zacharyjbaldwin/node-zen-cryptor.git```
